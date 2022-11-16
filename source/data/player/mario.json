@@ -1,0 +1,120 @@
+{
+    "image_name":"mario_bros",
+    "image_frames":{
+        "right_small_normal":[
+            {"x":157, "y": 58, "width":62, "height":61},
+            {"x":230, "y": 58, "width":66, "height":64},
+            {"x":310, "y": 58, "width":65, "height":61},
+            {"x":389, "y": 58, "width":60, "height":63},
+            {"x":470, "y": 66, "width":49, "height":59},
+            {"x":130, "y": 32, "width":14, "height":16},
+            {"x":160, "y": 32, "width":15, "height":16},
+            {"x":320, "y":  8, "width":16, "height":24},
+            {"x":241, "y": 33, "width":16, "height":16},
+            {"x":194, "y": 32, "width":12, "height":16},
+            {"x":210, "y": 33, "width":12, "height":16}
+        ],
+        "right_big_normal":[
+            {"x":158, "y":170, "width":80, "height":94},
+            {"x":247, "y":170, "width":80, "height":94},
+            {"x":328, "y":170, "width":80, "height":94},
+            {"x":414, "y":170, "width":80, "height":94},
+            {"x":508, "y":170, "width":80, "height":94},
+            {"x":610, "y":170, "width":80, "height":94},
+            {"x":691, "y":170, "width":80, "height":94},
+            {"x":785, "y":170, "width":80, "height":94},
+            {"x":879, "y":170, "width":80, "height":94},
+            {"x":967, "y":170, "width":80, "height":94}
+        ],
+        "big_stand":[
+            {"x":158, "y":170, "width":80, "height":90},
+            {"x":247, "y":170, "width":80, "height":90},
+            {"x":328, "y":170, "width":80, "height":90},
+            {"x":414, "y":170, "width":80, "height":90},
+            {"x":508, "y":170, "width":80, "height":90},
+            {"x":610, "y":170, "width":80, "height":90},
+            {"x":691, "y":170, "width":80, "height":90},
+            {"x":785, "y":170, "width":80, "height":90},
+            {"x":879, "y":170, "width":80, "height":90},
+            {"x":967, "y":170, "width":80, "height":90},
+            {"x":209, "y": 50, "width":10, "height":29}
+        ],
+        "attack_image":[
+            {"x":178, "y":128, "width":12, "height":16},
+            {"x": 80, "y":128, "width":15, "height":16},
+            {"x": 96, "y":128, "width":16, "height":16},
+            {"x":112, "y":128, "width":16, "height":16},
+            {"x":144, "y":128, "width":16, "height":16}
+        ],
+        "run":[
+            {"x":157, "y":452, "width":80, "height":75},
+            {"x":238, "y":452, "width":80, "height":75},
+            {"x":331, "y":452, "width":80, "height":75},
+            {"x":428, "y":452, "width":80, "height":75},
+            {"x":522, "y":452, "width":80, "height":75}
+            ],
+        "jump":[
+            {"x":157, "y":566, "width":83, "height":90},
+            {"x":247, "y":566, "width":83, "height":90},
+            {"x":337, "y":566, "width":82, "height":73},
+            {"x":432, "y":566, "width":82, "height":73},
+            {"x":523, "y":566, "width":82, "height":73},
+            {"x":613, "y":566, "width":82, "height":73},
+            {"x":705, "y":566, "width":83, "height":73},
+            {"x":800, "y":566, "width":83, "height":73},
+            {"x":891, "y":566, "width":83, "height":90},
+            {"x":980, "y":566, "width":83, "height":90}
+        ],
+        "attack":[
+            {"x":137, "y":672, "width":83, "height":78},
+            {"x":229, "y":672, "width":116, "height":78},
+            {"x":344, "y":672, "width":116, "height":78},
+            {"x":469, "y":672, "width":118, "height":78},
+            {"x":592, "y":672, "width":119, "height":78},
+            {"x":717, "y":672, "width":119, "height":78},
+            {"x":842, "y":672, "width":116, "height":78},
+            {"x":962, "y":672, "width":116, "height":78},
+            {"x":1087, "y":672, "width":116, "height":78}
+        ],
+        "skill":[
+            {"x":191, "y":990, "width":49, "height":135},
+            {"x":192, "y":882, "width":83, "height":111},
+            {"x":393, "y":846, "width":94, "height":144},
+            {"x":276, "y":912, "width":91, "height":80},
+            {"x":511, "y":880, "width":85, "height":113},
+            {"x":630, "y":871, "width":80, "height":122},
+            {"x":743, "y":909, "width":82, "height":83},
+            {"x":879, "y":811, "width":95, "height":182},
+            {"x":999, "y":775, "width":94, "height":217},
+            {"x":1094, "y":774, "width":94, "height":220},
+            {"x":1199, "y":775, "width":147, "height":217},
+            {"x":1344, "y":808, "width":177, "height":184},
+            {"x":1543, "y":780, "width":229, "height":213},
+            {"x":1196, "y":556, "width":357, "height":196},
+            {"x":1614, "y":555, "width":197, "height":196},
+            {"x":1042, "y":432, "width":485, "height":124},
+            {"x":1543, "y":780, "width":229, "height":213},
+            {"x":1645, "y":452, "width":264, "height":102},
+            {"x":1348, "y":233, "width":515, "height":80}
+        ],
+        "bianshen":[
+            {"x":652, "y":46, "width":57, "height":99},
+            {"x":731, "y":21, "width":63, "height":124},
+            {"x":810, "y":10, "width":57, "height":141},
+            {"x":888, "y":8, "width":61, "height":141},
+            {"x":965, "y":8, "width":61, "height":141},
+            {"x":1038, "y":8, "width":61, "height":141},
+            {"x":1121, "y":8, "width":61, "height":141}
+        ]
+    },
+    "speed":{
+        "max_walk_speed":6,
+        "max_run_speed":12,
+        "max_y_velocity":11,
+        "walk_accel":0.15,
+        "run_accel":0.3,
+        "turn_accel": 0.35,
+        "jump_velocity":-10.5
+    }
+    
+}

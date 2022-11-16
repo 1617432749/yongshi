@@ -1,0 +1,273 @@
+{
+    "image_name":"level_1",
+    "maps":[
+        {"start_x":   0, "end_x": 16080, "player_x": 110, "player_y":528},
+        {"start_x":9090, "end_x": 9890, "player_x":  80, "player_y": 60},
+        {"start_x":6740, "end_x": 9086, "player_x": 270, "player_y":450}
+    ],
+    "ground":[
+        {"x":   0, "y":528, "width":16080, "height":600}
+    ],
+
+    "brick":[
+        {"x": 1195, "y":485, "type":0},
+        {"x": 1240, "y":440, "type":0},
+        {"x": 1285, "y":395, "type":0},
+        {"x":1330, "y":350, "type":0},
+        {"x":1375, "y":305, "type":0},
+        {"x":1420, "y":260, "type":0},
+        {"x":1465, "y":215, "type":0},
+        {"x":1510, "y":215, "type":0},
+        {"x":1555, "y":215, "type":0},
+        {"x":1600, "y":215, "type":0},
+        {"x":1645, "y":215, "type":0},
+        {"x":1690, "y":215, "type":0},
+        {"x":1735, "y":260, "type":0},
+        {"x":1780, "y":305, "type":0},
+        {"x":1825, "y":350, "type":1},
+        {"x":1870, "y":395, "type":0},
+        {"x":1915, "y":440, "type":2},
+        {"x":1960, "y":485, "type":0},
+
+        {"x":2064, "y":193, "type":0},
+        {"x":2109, "y":193, "type":0},
+        {"x":2154, "y":193, "type":0},
+        {"x":2199, "y":193, "type":0},
+        {"x":2244, "y":193, "type":0},
+
+        {"x":3111, "y":333, "type":0},
+        {"x":3222, "y":322, "type":0},
+        {"x":3333, "y":311, "type":0},
+        {"x":3444, "y":300, "type":0},
+        {"x":3555, "y":289, "type":0},
+        {"x":3666, "y":278, "type":0},
+        {"x":3777, "y":267, "type":0},
+        {"x":3888, "y":256, "type":0},
+        {"x":3999, "y":250, "type":0},
+        {"x":4042, "y":250, "type":0},
+        {"x":4085, "y":250, "type":0},
+        {"x":4128, "y":250, "type":0},
+        {"x":4171, "y":250, "type":0},
+        {"x":4214, "y":250, "type":0},
+
+        {"x":7000, "y":152, "type":0},
+        {"x":7086, "y":152, "type":0},
+        {"x":7172, "y":152, "type":0},
+        {"x":7258, "y":152, "type":0},
+        {"x":7344, "y":152, "type":0},
+        {"x":7430, "y":152, "type":0},
+        {"x":7516, "y":152, "type":0},
+        {"x":7602, "y":152, "type":0},
+
+        {"x":7043, "y":390, "type":0},
+        {"x":7129, "y":390, "type":0},
+        {"x":7215, "y":390, "type":0},
+        {"x":7301, "y":390, "type":0},
+        {"x":7387, "y":390, "type":0},
+        {"x":7473, "y":390, "type":0},
+        {"x":7559, "y":390, "type":0},
+
+        {"x": 726, "y":350, "type":0},
+        {"x": 769, "y":350, "type":0},
+        {"x": 812, "y":350, "type":0},
+        {"x": 683, "y":350, "type":0},
+        {"x": 855, "y":350, "type":0},
+        {"x": 898, "y":350, "type":0},
+
+
+
+        {"x":4555, "y":330, "type":0},
+        {"x":3666, "y":40, "type":0},
+        {"x":4666, "y":330, "type":0},
+        {"x":3777, "y":30, "type":0},
+        {"x":4777, "y":330, "type":0},
+        {"x":3888, "y":20, "type":0},
+        {"x":4888, "y":330, "type":0},
+
+        {"x":7000, "y":390, "type":0},
+        {"x":7086, "y":390, "type":0},
+        {"x":7172, "y":390, "type":0},
+        {"x":7258, "y":390, "type":0},
+        {"x":7344, "y":390, "type":0},
+        {"x":7430, "y":390, "type":0},
+        {"x":7516, "y":390, "type":0},
+        {"x":7602, "y":390, "type":0},
+
+        {"x":7043, "y":152, "type":0},
+        {"x":7129, "y":152, "type":0},
+        {"x":7215, "y":152, "type":0},
+        {"x":7301, "y":152, "type":0},
+        {"x":7387, "y":152, "type":0},
+        {"x":7473, "y":152, "type":0},
+        {"x":7559, "y":152, "type":0},
+
+
+
+
+
+
+        {"x":9090, "y": 64, "type":0, "color":0,"brick_num":11, "direction":1},
+        {"x":9310, "y": 64, "type":0, "color":0,"brick_num":7, "direction":0},
+        {"x":9310, "y":406, "type":0, "color":0,"brick_num":7, "direction":0},
+        {"x":9310, "y":449, "type":0, "color":0,"brick_num":7, "direction":0},
+        {"x":9310, "y":492, "type":0, "color":0,"brick_num":7, "direction":0}
+    ],
+"box":[
+    {"x":4106.5, "y":200, "type":0},
+    {"x":8555, "y":485, "type":0}
+
+],
+
+
+
+    "enemy":[
+        {"0":[
+            {"x":1465, "y":225, "direction":0, "type":0, "color":0},
+            {"x":1511, "y":225, "direction":0, "type":0, "color":0},
+            {"x":1556, "y":225, "direction":0, "type":0, "color":0},
+            {"x":1601, "y":225, "direction":0, "type":0, "color":0},
+            {"x":1646, "y":225, "direction":0, "type":0, "color":0},
+            {"x":1691, "y":225, "direction":0, "type":0, "color":0}
+        ]},
+        {"1":[
+            {"x":2000, "y":485, "direction":0, "type":0, "color":0},
+            {"x":2100, "y":485, "direction":0, "type":0, "color":0}
+
+        ]},
+        {"2":[
+            {"x":2500, "y":485, "direction":0, "type":0, "color":0},
+            {"x":2650, "y":485, "direction":0, "type":0, "color":0},
+            {"x":2800, "y":485, "direction":0, "type":0, "color":0},
+            {"x":2950, "y":485, "direction":0, "type":0, "color":0}
+        ]},
+        {"3":[
+            {"x":3333, "y":300, "direction":0, "type":0, "color":0},
+            {"x":3222, "y":311, "direction":0, "type":0, "color":0},
+            {"x":3111, "y":322, "direction":0, "type":0, "color":0},
+            {"x":3000, "y":333, "direction":0, "type":0, "color":0},
+            {"x":3444, "y":289, "direction":0, "type":0, "color":0},
+            {"x":3555, "y":278, "direction":0, "type":0, "color":0},
+            {"x":3666, "y":267, "direction":0, "type":0, "color":0},
+            {"x":3777, "y":256, "direction":0, "type":0, "color":0},
+            {"x":3888, "y":245, "direction":0, "type":0, "color":0},
+            {"x":3999, "y":234, "direction":0, "type":0, "color":0},
+
+            {"x":3666, "y":500, "direction":0, "type":1, "color":0}
+
+
+        ]},
+        {"4":[
+            {"x":4270, "y":528, "direction":0, "type":0, "color":0},
+            {"x":4330, "y":528, "direction":0, "type":0, "color":0},
+            {"x":4390, "y":300, "direction":0, "type":1, "color":0}
+        ]},
+        {"5":[
+            {"x":4700, "y":528, "direction":0, "type":1, "color":0},
+            {"x":4800, "y":528, "direction":0, "type":2, "color":0},
+            {"x":4900, "y":528, "direction":0, "type":2, "color":0}
+        ]},
+        {"6":[
+            {"x":5100, "y":528, "direction":0, "type":2, "color":0},
+            {"x":5200, "y":528, "direction":0, "type":1, "color":0}
+        ]},
+        {"7":[
+            {"x":5300, "y":528, "direction":0, "type":1, "color":0},
+            {"x":5400, "y":528, "direction":0, "type":1, "color":0}
+        ]},
+        {"8":[
+            {"x":5500, "y":528, "direction":0, "type":1, "color":0},
+            {"x":5600, "y":528, "direction":0, "type":2, "color":0},
+            {"x":6550, "y":300, "direction":0, "type":2, "color":0},
+            {"x":6650, "y":300, "direction":0, "type":1, "color":0},
+            {"x":6750, "y":528, "direction":0, "type":2, "color":0},
+            {"x":6850, "y":528, "direction":0, "type":2, "color":0},
+            {"x":7050, "y":300, "direction":0, "type":1, "color":0},
+            {"x":7250, "y":300, "direction":0, "type":1, "color":0},
+            {"x":7450, "y":528, "direction":0, "type":2 ,"color":0},
+            {"x":7650, "y":528, "direction":0, "type":2, "color":0}
+        ]},
+        {"9":[
+            {"x":7550, "y":300, "direction":0, "type":1, "color":0},
+            {"x":7650, "y":300, "direction":0, "type":1, "color":0},
+            {"x":7750, "y":528, "direction":0, "type":0, "color":0},
+            {"x":7850, "y":528, "direction":0, "type":0, "color":0}
+        ]},
+        {"10":[
+            {"x":8000, "y":528, "direction":0, "type":1, "color":0},
+            {"x":8100, "y":528, "direction":0, "type":1, "color":0},
+            {"x":8200, "y":528, "direction":0, "type":1, "color":0},
+            {"x":8300, "y":528, "direction":0, "type":1, "color":0}
+        ]},
+        {"11":[
+            {"x":8500, "y":528, "direction":0, "type":2, "color":0},
+            {"x":8700, "y":528, "direction":0, "type":1, "color":0},
+            {"x":8900, "y":528, "direction":0, "type":2, "color":0},
+            {"x":9100, "y":528, "direction":0, "type":1, "color":0}
+        ]},
+        {"12":[
+            {"x":10000, "y":528, "direction":0, "type":0, "color":0},
+            {"x":10300, "y":528, "direction":0, "type":1, "color":0},
+            {"x":10600, "y":528, "direction":0, "type":0, "color":0},
+            {"x":10900, "y":528, "direction":0, "type":1, "color":0},
+            {"x":11000, "y":528, "direction":0, "type":0, "color":0},
+            {"x":12000, "y":528, "direction":0, "type":1, "color":0}
+        ]},
+        {"13":[
+            {"x":11640, "y":193, "direction":0, "type":1, "color":0},
+            {"x":11700, "y":193, "direction":0, "type":2, "color":0},
+            {"x":11800, "y":193, "direction":0, "type":1, "color":0},
+            {"x":11900, "y":193, "direction":0, "type":0, "color":0}
+        ]},
+        {"14":[
+            {"x":12270, "y":528, "direction":0, "type":2, "color":0},
+            {"x":12330, "y":528, "direction":0, "type":2, "color":0},
+            {"x":12370, "y":528, "direction":0, "type":2, "color":0},
+            {"x":12430, "y":528, "direction":0, "type":2, "color":0}
+        ]},
+        {"15":[
+            {"x":1000, "y":528, "direction":0, "type":0, "color":0},
+            {"x":14100, "y":528, "direction":0, "type":0, "color":0},
+            {"x":14200, "y":528, "direction":0, "type":0, "color":0},
+            {"x":14300, "y":528, "direction":0, "type":1, "color":0},
+            {"x":14400, "y":528, "direction":0, "type":0, "color":0}
+        ]}
+    ],
+    "checkpoint":[
+        {"x": 900, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":0},
+        {"x":1400, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":1},
+        {"x":1800, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":2},
+        {"x":3050, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":3},
+        {"x":3500, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":4},
+        {"x":4100, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":5},
+        {"x":4300, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":6},
+        {"x":4700, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":7},
+        {"x":5000, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":8},
+        {"x":6940, "y":  0, "width":100, "height":600, "type":0, "enemy_groupid":9},
+        {"x":7600, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":10},
+        {"x":8200, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":11},
+        {"x":9860, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":12},
+        {"x":11300, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":13},
+        {"x":11900, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":14},
+        {"x":600, "y":  0, "width":10, "height":600, "type":0, "enemy_groupid":15},
+        {"x":2460, "y":439, "width":50, "height": 10, "type":6, "map_index":1},
+        {"x":8504, "y":-10, "width": 6, "height":600, "type":1},
+        {"x":8780, "y":  0, "width":10, "height":600, "type":2},
+        {"x":2740, "y":360, "width":40, "height": 12, "type":3},
+        {"x":9731, "y":458, "width":10, "height": 70, "type":4},
+        {"x":9800, "y":458, "width":10, "height": 70, "type":5, "map_index":2}
+    ],
+    "flagpole":[
+        {"x":8470, "y":116, "type":0},
+        {"x":8505, "y": 97, "type":1},
+        {"x":8505, "y":137, "type":1},
+        {"x":8505, "y":177, "type":1},
+        {"x":8505, "y":217, "type":1},
+        {"x":8505, "y":257, "type":1},
+        {"x":8505, "y":297, "type":1},
+        {"x":8505, "y":337, "type":1},
+        {"x":8505, "y":377, "type":1},
+        {"x":8505, "y":417, "type":1},
+        {"x":8505, "y":450, "type":1},
+        {"x":8497, "y": 97, "type":2}
+    ]
+}
